@@ -11,18 +11,22 @@ Cada proyecto incluye:
 ## Proyectos completados
 
 ### 01 - Calculadora de Propinas
+
 - v1: Versión básica
 - v2: Validación de errores y mejoras de formato
 
 ### 02 - Piedra, Papel o Tijera
+
 - v1: Lógica básica del juego
 - v2: Bucle infinito, marcador y validación de entrada
 
 ### 03 - Generador de Contraseñas
+
 - v1: Generación personalizada con mezcla aleatoria
 - v2 (pendiente): Validaciones avanzadas y mejoras de seguridad
 
 ### 04 - Contador de Palabras
+
 - v1: Conteo básico de palabras y caracteres
 - v2: Análisis extendido (frecuencia, frases, caracteres sin espacios)
 
