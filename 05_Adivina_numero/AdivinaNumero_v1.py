@@ -14,7 +14,7 @@ while True:
     if numeroUser < 1 or numeroUser > 10:
         print("Debes ingresar un número entre 1 y 10.")
         continue
-    
+
     intentos += 1
 
     if numeroMaquina < numeroUser:
@@ -33,4 +33,4 @@ while True:
         else:
             numeroMaquina = random.randint(1, 10)
             intentos = 0
-            print("Nuevo juego iniciado 🔄")
+            print("Nuevo juego iniciado ")
